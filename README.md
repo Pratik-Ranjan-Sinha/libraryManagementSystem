@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Library Management System
 
 Welcome to the **Library Management System**! 🚀 This Python-based application allows you to manage your personal library with ease. Whether you're looking to keep track of your book collection, remove old books, or store your library data for future use, this tool has got you covered. It’s simple, easy to use, and best of all, you don’t need to be a coding expert to use it!
@@ -98,3 +99,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🤔 Questions?
 
 If you have any questions, suggestions, or feedback, don’t hesitate to reach out. Open an issue, or simply ping me through GitHub! Let’s make this library system even better together!
+=======
+# libraryManagementSystem
+>>>>>>> b2824f7c2caf5fad72dcbe90d627c3cf98507724
