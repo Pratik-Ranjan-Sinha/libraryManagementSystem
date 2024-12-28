@@ -1,16 +1,3 @@
-'''
-When a library class with no_of_books and books as two instances variables. Write a program to create a library from the library class
-and show how you can print all books, add a book and get the number of books using different methods. Show that your program does not
-persist the books after the program is stopped.
-
-library -> class
-    var books -> list
-    var no_of_books -> integer
-
-    method to check -> no_of_books == len_of_books
-
-
-'''
 import csv
 
 class library:
@@ -89,6 +76,10 @@ if look == "YES":
 else:
     print("Thank you for using Our Program !!")
     quit()
+
+
+#Below Codes are just Test Codes !!
+
 # while True:
 #     sel1 = input("Do you want to remove some Books {Answer in YES or NO}: ")
 #     if(sel1 == "YES"):
