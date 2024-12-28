@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📚 Library Management System
 
 Welcome to the **Library Management System**! 🚀 This Python-based application allows you to manage your personal library with ease. Whether you're looking to keep track of your book collection, remove old books, or store your library data for future use, this tool has got you covered. It’s simple, easy to use, and best of all, you don’t need to be a coding expert to use it!
