@@ -98,6 +98,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🤔 Questions?
 
 If you have any questions, suggestions, or feedback, don’t hesitate to reach out. Open an issue, or simply ping me through GitHub! Let’s make this library system even better together!
-=======
-# libraryManagementSystem
->>>>>>> b2824f7c2caf5fad72dcbe90d627c3cf98507724
